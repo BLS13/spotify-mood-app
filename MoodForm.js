@@ -26,3 +26,4 @@ function MoodForm({ onSubmit }) {
 }
 
 export default MoodForm;
+
